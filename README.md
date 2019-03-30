@@ -9,6 +9,9 @@ https://github.com/DV8FromTheWorld/JDA
 - IntelliJ IDEA or any IDE that suports Maven and Java
 - Java 1.8.0
 
+## Examples
+https://i.imgur.com/0m7YKN7.png
+
 ## Licence
 You are free to use and modify this code if you want to!
 
