@@ -10,7 +10,7 @@ https://github.com/DV8FromTheWorld/JDA
 - Java 1.8.0
 
 ## Examples
-https://i.imgur.com/0m7YKN7.png
+[Example 1 Image](https://i.imgur.com/0m7YKN7.png)
 
 ## Licence
 You are free to use and modify this code if you want to!
