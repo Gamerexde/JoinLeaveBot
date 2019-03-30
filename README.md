@@ -12,6 +12,11 @@ https://github.com/DV8FromTheWorld/JDA
 ## Examples
 [Example 1 Image](https://i.imgur.com/0m7YKN7.png)
 
+## Discord Server
+Join my discord server!
+
+https://discord.gg/RtKQpc9
+
 ## Licence
 You are free to use and modify this code if you want to!
 
